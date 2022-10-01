@@ -9,3 +9,45 @@ h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
+
+body {
+    background-color: #ffefef;
+    text-align: center;
+}
+
+.main {
+    background-color: white;
+    padding: 40px;
+    margin: 50px;
+}
+
+.main_img-item {
+    width: 25%;
+    padding: 10px;
+}
+
+.flex {
+    display: flex;
+    text-align: left;
+    align-items: center;
+}
+
+.flex_right {
+    padding-left: 40px;
+}
+
+.flex_content {
+    align-items: flex-start;
+}
+
+.button {
+    text-decoration: none;
+    background-color: #ffefef;
+    color: black;
+    padding: 15px 20px;
+}
+
+.text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
